@@ -25,4 +25,5 @@ cd server
 mvn spring-boot:run
 ```
 
+Go to client folder and open index.html.
 It's all. For fun.
